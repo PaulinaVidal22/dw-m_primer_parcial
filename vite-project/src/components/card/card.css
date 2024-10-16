@@ -1,0 +1,51 @@
+.card {
+    width: 100%; 
+    padding: 0.2rem;
+    margin: 1rem 0.2rem 0.2rem 0.2rem ;
+    background-color: #346C9D;
+    border-color: #5789C7;
+    border-radius: 8px; 
+    height: auto;
+    
+}
+
+.clickable-card {
+    cursor: pointer;
+}
+
+.clickable-card:hover {
+    background-color: #181849;
+}
+
+.card-title {
+    font-weight: bold; 
+    margin: 0%; 
+}
+
+.card-icon {
+    font-size: 30px;
+}
+
+.details-button {
+    color:#FBF6F4;
+    background-color: #DBD994;
+    border-color: #FBF6F4;
+}
+
+.details-button:hover{
+    color: #5789C7;
+    border-color: #5789C7;;
+    
+}
+
+.delete-button {
+    color: #DBD994;
+    background-color: #FBF6F4;
+    border-color: #DBD994;
+}
+
+.delete-button:hover{
+    color: #5789C7;
+    border-color: #5789C7;
+    
+}

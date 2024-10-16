@@ -1,0 +1,22 @@
+.app-title {
+    text-align: center;
+    color:#5789C7;
+    /* border-radius: 25%;
+    border-width: 25%;
+    border-color: #DBD994; */
+   }
+   
+
+  .add-button {
+    color:  #DBD994;
+    background-color: #181849;
+    border-color:  #DBD994;
+
+  }
+
+  .add-button:hover {
+    color: #5789C7;
+    background-color:  #DBD994;
+    border-color: #5789C7;
+
+  }
